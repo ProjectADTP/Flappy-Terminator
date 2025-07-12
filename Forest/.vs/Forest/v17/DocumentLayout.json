@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andrey\\Forest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D5CFDB-254D-3C6E-3D7A-3DE7B9BBCA0E}|Assembly-CSharp.csproj|c:\\users\\andrey\\forest\\assets\\scripts\\bullet\\bulletmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D5CFDB-254D-3C6E-3D7A-3DE7B9BBCA0E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet\\bulletmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D5CFDB-254D-3C6E-3D7A-3DE7B9BBCA0E}|Assembly-CSharp.csproj|c:\\users\\andrey\\forest\\assets\\scripts\\unit\\unitdeathscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D5CFDB-254D-3C6E-3D7A-3DE7B9BBCA0E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unit\\unitdeathscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D5CFDB-254D-3C6E-3D7A-3DE7B9BBCA0E}|Assembly-CSharp.csproj|c:\\users\\andrey\\forest\\assets\\scripts\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D5CFDB-254D-3C6E-3D7A-3DE7B9BBCA0E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D5CFDB-254D-3C6E-3D7A-3DE7B9BBCA0E}|Assembly-CSharp.csproj|c:\\users\\andrey\\forest\\assets\\scripts\\unit\\enemy\\generator\\enemygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D5CFDB-254D-3C6E-3D7A-3DE7B9BBCA0E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unit\\enemy\\generator\\enemygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D5CFDB-254D-3C6E-3D7A-3DE7B9BBCA0E}|Assembly-CSharp.csproj|c:\\users\\andrey\\forest\\assets\\scripts\\unit\\enemy\\generator\\objectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D5CFDB-254D-3C6E-3D7A-3DE7B9BBCA0E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unit\\enemy\\generator\\objectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D5CFDB-254D-3C6E-3D7A-3DE7B9BBCA0E}|Assembly-CSharp.csproj|c:\\users\\andrey\\forest\\assets\\scripts\\unit\\enemy\\generator\\objectremover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D5CFDB-254D-3C6E-3D7A-3DE7B9BBCA0E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unit\\enemy\\generator\\objectremover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D5CFDB-254D-3C6E-3D7A-3DE7B9BBCA0E}|Assembly-CSharp.csproj|c:\\users\\andrey\\forest\\assets\\scripts\\unit\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D5CFDB-254D-3C6E-3D7A-3DE7B9BBCA0E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unit\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D5CFDB-254D-3C6E-3D7A-3DE7B9BBCA0E}|Assembly-CSharp.csproj|c:\\users\\andrey\\forest\\assets\\scripts\\unit\\vision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D5CFDB-254D-3C6E-3D7A-3DE7B9BBCA0E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unit\\vision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D5CFDB-254D-3C6E-3D7A-3DE7B9BBCA0E}|Assembly-CSharp.csproj|C:\\Users\\Andrey\\Forest\\assets\\scripts\\unit\\shooter\\playershooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D5CFDB-254D-3C6E-3D7A-3DE7B9BBCA0E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unit\\shooter\\playershooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D5CFDB-254D-3C6E-3D7A-3DE7B9BBCA0E}|Assembly-CSharp.csproj|C:\\Users\\Andrey\\Forest\\assets\\scripts\\unit\\player\\playermover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D5CFDB-254D-3C6E-3D7A-3DE7B9BBCA0E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unit\\player\\playermover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D5CFDB-254D-3C6E-3D7A-3DE7B9BBCA0E}|Assembly-CSharp.csproj|C:\\Users\\Andrey\\Forest\\assets\\scripts\\unit\\shooter\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D5CFDB-254D-3C6E-3D7A-3DE7B9BBCA0E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unit\\shooter\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D5CFDB-254D-3C6E-3D7A-3DE7B9BBCA0E}|Assembly-CSharp.csproj|C:\\Users\\Andrey\\Forest\\assets\\scripts\\unit\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D5CFDB-254D-3C6E-3D7A-3DE7B9BBCA0E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unit\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D5CFDB-254D-3C6E-3D7A-3DE7B9BBCA0E}|Assembly-CSharp.csproj|c:\\users\\andrey\\forest\\assets\\scripts\\unit\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D5CFDB-254D-3C6E-3D7A-3DE7B9BBCA0E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unit\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D5CFDB-254D-3C6E-3D7A-3DE7B9BBCA0E}|Assembly-CSharp.csproj|C:\\Users\\Andrey\\Forest\\assets\\scripts\\unit\\player\\scorecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D5CFDB-254D-3C6E-3D7A-3DE7B9BBCA0E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unit\\player\\scorecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D5CFDB-254D-3C6E-3D7A-3DE7B9BBCA0E}|Assembly-CSharp.csproj|C:\\Users\\Andrey\\Forest\\assets\\scripts\\unit\\player\\inputreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D5CFDB-254D-3C6E-3D7A-3DE7B9BBCA0E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unit\\player\\inputreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Forest\\Assets\\scripts\\Game.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Game.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Forest\\Assets\\scripts\\Game.cs",
+              "RelativeToolTip": "Assets\\scripts\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T19:30:03.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ObjectRemover.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Forest\\Assets\\scripts\\Unit\\Enemy\\Generator\\ObjectRemover.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Unit\\Enemy\\Generator\\ObjectRemover.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Forest\\Assets\\scripts\\Unit\\Enemy\\Generator\\ObjectRemover.cs",
+              "RelativeToolTip": "Assets\\scripts\\Unit\\Enemy\\Generator\\ObjectRemover.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T19:27:00.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Forest\\Assets\\scripts\\Unit\\Enemy\\Generator\\EnemyGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Unit\\Enemy\\Generator\\EnemyGenerator.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Forest\\Assets\\scripts\\Unit\\Enemy\\Generator\\EnemyGenerator.cs",
+              "RelativeToolTip": "Assets\\scripts\\Unit\\Enemy\\Generator\\EnemyGenerator.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wDEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T19:26:40.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ObjectPool.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Forest\\Assets\\scripts\\Unit\\Enemy\\Generator\\ObjectPool.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Unit\\Enemy\\Generator\\ObjectPool.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Forest\\Assets\\scripts\\Unit\\Enemy\\Generator\\ObjectPool.cs",
+              "RelativeToolTip": "Assets\\scripts\\Unit\\Enemy\\Generator\\ObjectPool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T19:24:31.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Forest\\Assets\\scripts\\Unit\\Enemy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Unit\\Enemy\\Enemy.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Forest\\Assets\\scripts\\Unit\\Enemy\\Enemy.cs",
+              "RelativeToolTip": "Assets\\scripts\\Unit\\Enemy\\Enemy.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBsAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T19:04:36.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitDeathScene.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Forest\\Assets\\scripts\\Unit\\UnitDeathScene.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Unit\\UnitDeathScene.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Forest\\Assets\\scripts\\Unit\\UnitDeathScene.cs",
+              "RelativeToolTip": "Assets\\scripts\\Unit\\UnitDeathScene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T19:03:41.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BulletMover.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Forest\\Assets\\scripts\\Bullet\\BulletMover.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Bullet\\BulletMover.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Forest\\Assets\\scripts\\Bullet\\BulletMover.cs",
+              "RelativeToolTip": "Assets\\scripts\\Bullet\\BulletMover.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T19:03:21.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vision.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Forest\\Assets\\scripts\\Unit\\Vision.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Unit\\Vision.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Forest\\Assets\\scripts\\Unit\\Vision.cs",
+              "RelativeToolTip": "Assets\\scripts\\Unit\\Vision.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T19:01:22.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerMover.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Forest\\Assets\\scripts\\Unit\\Player\\PlayerMover.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Unit\\Player\\PlayerMover.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Forest\\Assets\\scripts\\Unit\\Player\\PlayerMover.cs",
+              "RelativeToolTip": "Assets\\scripts\\Unit\\Player\\PlayerMover.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T18:54:41.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ScoreCounter.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Forest\\Assets\\scripts\\Unit\\Player\\ScoreCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Unit\\Player\\ScoreCounter.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Forest\\Assets\\scripts\\Unit\\Player\\ScoreCounter.cs",
+              "RelativeToolTip": "Assets\\scripts\\Unit\\Player\\ScoreCounter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T18:54:40.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Shooter.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Forest\\Assets\\scripts\\Unit\\Shooter\\Shooter.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Unit\\Shooter\\Shooter.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Forest\\Assets\\scripts\\Unit\\Shooter\\Shooter.cs",
+              "RelativeToolTip": "Assets\\scripts\\Unit\\Shooter\\Shooter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T18:53:33.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Forest\\Assets\\scripts\\Unit\\Unit.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Unit\\Unit.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Forest\\Assets\\scripts\\Unit\\Unit.cs",
+              "RelativeToolTip": "Assets\\scripts\\Unit\\Unit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T18:51:41.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InputReader.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Forest\\Assets\\scripts\\Unit\\Player\\InputReader.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Unit\\Player\\InputReader.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Forest\\Assets\\scripts\\Unit\\Player\\InputReader.cs",
+              "RelativeToolTip": "Assets\\scripts\\Unit\\Player\\InputReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T18:47:23.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Forest\\Assets\\scripts\\Unit\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Unit\\Player\\Player.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Forest\\Assets\\scripts\\Unit\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\scripts\\Unit\\Player\\Player.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwDMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T18:45:26.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerShooter.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Forest\\Assets\\scripts\\Unit\\Shooter\\PlayerShooter.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Unit\\Shooter\\PlayerShooter.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Forest\\Assets\\scripts\\Unit\\Shooter\\PlayerShooter.cs",
+              "RelativeToolTip": "Assets\\scripts\\Unit\\Shooter\\PlayerShooter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T18:42:43.378Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

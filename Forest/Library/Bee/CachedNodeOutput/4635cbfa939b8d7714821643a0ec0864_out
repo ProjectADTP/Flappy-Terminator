@@ -1,0 +1,1 @@
+Packages\com.ruccho.fang-auto-tile\Editor\FangAutoTileEditor.cs(56,37): warning CS0414: The field 'FangAutoTileEditor.paddingSize' is assigned but its value is never used
